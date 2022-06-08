@@ -21,7 +21,10 @@
       "Global/Semantic light": "enabled",
       "showell core  / 1. global": "enabled",
       "showell core  / 2. semantic": "enabled",
-      "showell core  / 3. component": "enabled"
+      "showell core  / 3. component": "enabled",
+      "showell core  / 1.global": "enabled",
+      "showell core  / 2.component": "enabled",
+      "showell core  / semantic": "enabled"
     },
     "$figmaStyleReferences": {}
   }
