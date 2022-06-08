@@ -1,0 +1,25 @@
+[
+  {
+    "id": "70c101de6b7b20edb374aa378bff201fc062d304",
+    "name": "Showell Light",
+    "selectedTokenSets": {
+      "tokens": "disabled",
+      "Showell - Semantic Light": "disabled",
+      "Semantic dark": "disabled",
+      "Global": "source",
+      "Global/Semantic dark": "disabled",
+      "Global/Semantic light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "bdc356fb09de7ed395823457b6956d8cf00bbf56",
+    "name": "Showell Dark",
+    "selectedTokenSets": {
+      "Global": "source",
+      "Global/Semantic dark": "enabled",
+      "Global/Semantic light": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
