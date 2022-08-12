@@ -1,30 +1,14 @@
 [
   {
-    "id": "bdc356fb09de7ed395823457b6956d8cf00bbf56",
-    "name": "Showell Dark",
+    "id": "97bdb8694ee4516ebc2e997a62e241813051cc20",
+    "name": "Showell Desktop Light",
     "selectedTokenSets": {
-      "Global": "source",
-      "Global/Semantic dark": "enabled",
-      "Global/Semantic light": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "70c101de6b7b20edb374aa378bff201fc062d304",
-    "name": "Showell Light",
-    "selectedTokenSets": {
-      "tokens": "disabled",
-      "Showell - Semantic Light": "disabled",
-      "Semantic dark": "disabled",
-      "Global": "source",
-      "Global/Semantic dark": "disabled",
-      "Global/Semantic light": "enabled",
-      "showell core  / 1. global": "enabled",
-      "showell core  / 2. semantic": "enabled",
-      "showell core  / 3. component": "enabled",
-      "showell core  / 1.global": "enabled",
-      "showell core  / 2.component": "enabled",
-      "showell core  / semantic": "enabled"
+      "showell-mobile": "disabled",
+      "showell-desktop": "source",
+      "showell-core": "source",
+      "showell-component": "enabled",
+      "showell-semantic-light": "source",
+      "showell-semantic-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   }
