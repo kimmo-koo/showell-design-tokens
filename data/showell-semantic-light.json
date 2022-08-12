@@ -1,0 +1,22 @@
+{
+  "color": {
+    "background": {
+      "default": {
+        "value": "{color.basic.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.neutral.10}",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "primary": {
+        "default": {
+          "value": "{color.primary.60}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "color": {
+    "background": {
+      "button": {
+        "primary": {
+          "small": {
+            "default": {
+              "value": "{color.cta.primary.default}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "text": {
+      "button": {
+        "primary": {
+          "small": {
+            "default": {
+              "value": "{color.basic.white}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  },
+  "spacing": {
+    "padding-x": {
+      "button": {
+        "primary": {
+          "small": {
+            "value": "{spacing.60}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  },
+  "sizing": {
+    "height": {
+      "button": {
+        "primary": {
+          "small": {
+            "value": "{size.desktop.400}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}
