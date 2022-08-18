@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "showell-component",
+    "showell-core",
+    "showell-desktop",
+    "showell-mobile",
+    "showell-semantic-dark",
+    "showell-semantic-light"
+  ]
+}
