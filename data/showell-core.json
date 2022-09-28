@@ -402,9 +402,9 @@
       "value": {
         "x": "0",
         "y": "4",
-        "blur": "16",
+        "blur": "48",
         "spread": "0",
-        "color": "rgba(0,0,0,0.15)",
+        "color": "rgba(0,0,0,0.10)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -496,6 +496,18 @@
       },
       "500": {
         "value": "40px",
+        "type": "sizing"
+      },
+      "550": {
+        "value": "44px",
+        "type": "sizing"
+      },
+      "600": {
+        "value": "48px",
+        "type": "sizing"
+      },
+      "650": {
+        "value": "52px",
         "type": "sizing"
       },
       "1000": {
