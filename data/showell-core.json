@@ -293,7 +293,7 @@
     "type": "boxShadow"
   },
   "font-size-xs": {
-    "value": "16px",
+    "value": "16",
     "type": "fontSizes"
   },
   "font-size-sm": {
