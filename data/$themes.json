@@ -3,12 +3,10 @@
     "id": "97bdb8694ee4516ebc2e997a62e241813051cc20",
     "name": "Showell Desktop Light",
     "selectedTokenSets": {
-      "showell-mobile": "disabled",
       "showell-desktop": "source",
       "showell-core": "source",
       "showell-component": "enabled",
-      "showell-semantic-light": "source",
-      "showell-semantic-dark": "disabled"
+      "showell-semantic-light": "source"
     },
     "$figmaStyleReferences": {}
   }
