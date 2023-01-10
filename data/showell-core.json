@@ -1,4 +1,8 @@
 {
+  "95": {
+    "value": "15px",
+    "type": "fontSizes"
+  },
   "spacing": {
     "0": {
       "value": "0px",
