@@ -8,6 +8,11 @@
     "value": "15px",
     "type": "fontSizes"
   },
+  "100": {
+    "value": "16px",
+    "type": "fontSizes",
+    "description": "Base font size (native to browsers)"
+  },
   "spacing": {
     "0": {
       "value": "0px",
