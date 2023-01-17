@@ -13,6 +13,10 @@
     "type": "fontSizes",
     "description": "Base font size (native to browsers)"
   },
+  "150": {
+    "value": "24px",
+    "type": "fontSizes"
+  },
   "spacing": {
     "0": {
       "value": "0px",
@@ -392,12 +396,16 @@
     "value": "100",
     "type": "fontSizes"
   },
-  "tight": {
-    "value": "-2%",
-    "type": "letterSpacing"
-  },
   "default": {
     "value": "0%",
+    "type": "letterSpacing"
+  },
+  "tight": {
+    "value": "-1%",
+    "type": "letterSpacing"
+  },
+  "tighter": {
+    "value": "-2%",
     "type": "letterSpacing"
   },
   "button": {
