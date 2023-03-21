@@ -158,6 +158,10 @@
       "100": {
         "value": "#000B42",
         "type": "color"
+      },
+      "500": {
+        "value": "#1E3CD2",
+        "type": "color"
       }
     },
     "secondary": {
