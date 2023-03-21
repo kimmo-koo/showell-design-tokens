@@ -111,10 +111,6 @@
         "value": "#F0F4FF",
         "type": "color"
       },
-      "5": {
-        "value": "#E5EBFC",
-        "type": "color"
-      },
       "10": {
         "value": "#D1DCFA",
         "type": "color"
@@ -132,7 +128,7 @@
         "type": "color"
       },
       "50": {
-        "value": "#3657E0",
+        "value": "#E5EBFC",
         "type": "color"
       },
       "60": {
@@ -161,6 +157,10 @@
       },
       "500": {
         "value": "#1E3CD2",
+        "type": "color"
+      },
+      "50_": {
+        "value": "#3657E0",
         "type": "color"
       }
     },
