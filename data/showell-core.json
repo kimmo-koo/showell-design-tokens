@@ -192,6 +192,10 @@
       "100": {
         "value": "#470028",
         "type": "color"
+      },
+      "500": {
+        "value": "#E72395",
+        "type": "color"
       }
     },
     "neutral": {
